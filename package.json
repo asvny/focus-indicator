@@ -1,0 +1,11 @@
+{
+  "name": "focus-indicator",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "annamalai.saravanan",
+  "license": "MIT",
+  "private": true,
+  "workspaces": [
+    "packages/*"
+  ]
+}
